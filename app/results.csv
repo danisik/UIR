@@ -1,0 +1,4 @@
+true - POLICY;true - POLICY;Zahraniční tisk: Polsko v reakci na útoky v #Brussels uzavřelo #hranice rozsudek nad Radovanem #Karadzic em   => TP
+true - AGRICULTURE;false - NOT_EVENT;Jak předejít dalším útokům? Významný analytik má pro Evropu jasný vzkaz                        => FN
+false - NOT_EVENT;false - NOT_EVENT;Právě hraji Biathlon Maniu. Přidej se i ty a zkus mě porazit!                                         => FP
+false - NOT_EVENT;true - INDUSTRY;Jak vyzrát na hybridní slot? Stačí vám lepicí páska, nůž a trocha kuráže                         => TN
